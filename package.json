@@ -1,6 +1,7 @@
 {
   "name": "car-game",
   "private": true,
+  "homepage":"https://prasanna08-alt.github.io/cargame/",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
